@@ -1,4 +1,7 @@
-## Hi, I'm Ricardo 👋
+<h1> Hi, I'm Ricardo 👋</h1>
+
+## About me
+
 
 ## My skills include
 
