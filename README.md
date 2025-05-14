@@ -1,9 +1,9 @@
 <h1> Hi, I'm Ricardo 👋</h1>
 
-## About me
+<h2>About me</h2>
+I'm a Computer Engineering student at the UDG. I'm currently learning to use Linux operating systems, such as Arch Linux and Debian. Pythonn is the programming language i'm good at. i love learning new things.
 
-
-## My skills include
+<h2>My skills include</h2>
 
 <h4> Lenguages </h4>
 <span>
